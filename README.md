@@ -200,3 +200,6 @@ This repository serves as the official landing page for NBA 2K25. The software i
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of NBA 2K25 today!**
+
+---
+**Last updated:** 2026-11-08 08:45:07 UTC
