@@ -202,4 +202,4 @@ This repository serves as the official landing page for NBA 2K25. The software i
 **Get the most recent version of NBA 2K25 today!**
 
 ---
-**Last updated:** 2026-11-09 00:39:04 UTC
+**Last updated:** 2026-11-09 07:45:10 UTC
